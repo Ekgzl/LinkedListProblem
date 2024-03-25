@@ -15,8 +15,13 @@ This C++ program is designed to manage WhatsApp groups. The information of each 
 
      Example `groups.txt`:
      ```
-     family 3 05321112222 05423334444 05556667777
-     friends 2 05551112222 05444445555
+     family 3
+     05321112222
+     05423334444
+     05556667777
+     friends 2
+     05551112222
+      05444445555
      ```
 
 3. **Execution:**
