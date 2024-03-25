@@ -1,6 +1,7 @@
 # WhatsApp Group Management Program
 
 This C++ program is designed to manage WhatsApp groups. The information of each WhatsApp group, including the names of the groups and the phone numbers of each member, is stored in a linked list.
+[Screenshot 2024-03-25 234915](https://github.com/Ekgzl/LinkedListProblem/assets/105228606/e62fe8b7-1f99-4cb0-b3c9-9ad44ba0619f)
 
 ## How to Use
 
@@ -16,7 +17,8 @@ This C++ program is designed to manage WhatsApp groups. The information of each 
      Example `groups.txt`:
      ```
      family 3
-     05321112222
+     05321112222!
+
      05423334444
      05556667777
      friends 2
